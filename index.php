@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <script type='text/javascript' src='js/jwplayer.js'></script>
    
-    <title>Camaras</title>
+    <title>Camaras2</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.css" rel="stylesheet">

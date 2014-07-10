@@ -11,9 +11,9 @@ function save_image($inPath,$outPath)
     fclose($out);
 }
 
-save_image('http://camara1.colegiorauquen.local/snapshot.cgi','/var/www/camaras/snapshots/camara1.jpg');
-save_image('http://camara2.colegiorauquen.local/snapshot.cgi','/var/www/camaras/snapshots/camara2.jpg');
-save_image('http://camara3.colegiorauquen.local/snapshot.cgi','/var/www/camaras/snapshots/camara3.jpg');
-save_image('https://mini.colegiorauquen.local/snapshot.cgi','/var/www/camaras/snapshots/mini.jpg');
+save_image('http://direccionip/snapshot.cgi','/var/www/camaras/snapshots/camara1.jpg');
+save_image('http://direccionip/snapshot.cgi','/var/www/camaras/snapshots/camara2.jpg');
+save_image('http://direccionip/snapshot.cgi','/var/www/camaras/snapshots/camara3.jpg');
+save_image('https://direccionip/snapshot.cgi','/var/www/camaras/snapshots/mini.jpg');
 
 ?>
