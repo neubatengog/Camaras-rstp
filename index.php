@@ -29,7 +29,7 @@
             width: 750,
             height: 480,
             bufferlength: '15',
-            streamer:'rtmp://salacuna.colegiorauquen.cl/flvplayback',
+            streamer:'rtmp://direccionipdelservidorstreaming/flvplayback',
             title: titulo,
             });
 
@@ -99,7 +99,7 @@
                 width: 750,
                 height: 480,
                 bufferlength: '15',
-                streamer:'rtmp://salacuna.colegiorauquen.cl/flvplayback',
+                streamer:'rtmp://direccionipdelservidorstreaming/flvplayback',
                 title:'camara 1 mini',
                 });
 
