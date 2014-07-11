@@ -51,7 +51,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="http://salacuna.colegiorauquen.cl/camaras/">Camaras</a>
+                <a class="navbar-brand" href="http://direccionipdelservidor/camaras/">Camaras</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling 
